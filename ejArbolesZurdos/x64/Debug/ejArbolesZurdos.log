@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" salió con el código 1120.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\abrig\source\repos\EDejercicios\x64\Debug\ejArbolesZurdos.exe : fatal error LNK1120: 1 externos sin resolver
