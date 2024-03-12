@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
+    <None Include="sample.in" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="sample.in" />
+    <ClCompile Include="ej08InvertirLista.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

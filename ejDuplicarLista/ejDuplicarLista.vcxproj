@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="ej07DuplicarLista.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="sample.in" />
